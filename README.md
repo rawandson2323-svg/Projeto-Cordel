@@ -17,9 +17,8 @@ Design Responsivo: O site adapta o tamanho das fontes e imagens conforme a largu
 
 Identidade Visual: Uso de fontes customizadas para remeter à literatura de cordel.
 
-🔗 Links Úteis
-CLIQUE AQUI PARA VER O SITE NO AR
-https://rawandson2323-svg.github.io/Projeto-Cordel/
+
+* 🔗 **Links Úteis:** [CLIQUE AQUI PARA VER O SITE NO AR](https://rawandson2323-svg.github.io/Projeto-Cordel/)
 
 Poesia original: Milton Duarte.
 
