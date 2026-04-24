@@ -19,6 +19,7 @@ Identidade Visual: Uso de fontes customizadas para remeter à literatura de cord
 
 🔗 Links Úteis
 CLIQUE AQUI PARA VER O SITE NO AR
+https://rawandson2323-svg.github.io/Projeto-Cordel/
 
 Poesia original: Milton Duarte.
 
